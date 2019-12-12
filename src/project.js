@@ -76,7 +76,7 @@ Project.prototype.inquire = function () {
     prompts.push({
       type: 'input',
       name: 'description',
-      message: 'Please enter project description'
+      message: 'Please enter project description:'
     });
   }
 

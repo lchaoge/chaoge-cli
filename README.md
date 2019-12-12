@@ -11,6 +11,22 @@ chaoge-cli 的成长离不开大家的支持，如果你愿意为 chaoge-cli 贡
 ## Issue 规范
 - issue 仅用于提交 Bug 或 Feature 以及设计相关的内容，其它内容可能会被直接关闭。如果你在使用时产生了疑问，请到 [Issues](https://github.com/lchaoge/nuxt_vue_ts/issues) 里咨询。
 
+## 入门
+
+首先，您需要安装 `chaoge-cli`：
+```shell
+npm install -g chaoge-cli
+```
+
+创建一个项目
+```shell
+chaoge init
+# 请输入项目名称
+Please enter the project name:
+# 请输入项目描述
+Please enter project description:
+```
+
 ## 开发环境搭建
 首先你需要 Node.js 8+，yarn 和 npm 6+。注意：我们使用 yarn 进行依赖版本的锁定，所以请不要使用 `npm install` 安装依赖。
 ```shell
