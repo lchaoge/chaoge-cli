@@ -33,10 +33,6 @@ yarn build
 - 如果包含父子组件，需要更改目录结构，参考 `Button`
 - 组件内如果依赖了其他组件，需要在当前组件内引入，参考 `Select`
 
-## 代码规范
-遵循饿了么前端的 [ESLint](https://github.com/ElemeFE/eslint-config-elemefe) 即可
-
-
 
 ## 代码规范
 ```
