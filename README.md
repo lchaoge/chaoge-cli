@@ -17,10 +17,8 @@ chaoge-cli 的成长离不开大家的支持，如果你愿意为 chaoge-cli 贡
 # 安装依赖项
 yarn install
 
-# 在本地主机上进行热重新加载 localhost:8080
+# 在本地主机上进行热重新加载，打开 http://127.0.0.1:8080
 yarn dev
-
-# open http://127.0.0.1:8080
 ```
 > **提示**：修改 `package.json` 文件下config.nuxt可修改IP和端口号。
 
