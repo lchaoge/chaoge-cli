@@ -1,7 +1,7 @@
 {
   "name": "chaoge-cli",
-  "version": "1.0.3",
-  "description": "A cli for init project",
+  "version": "1.0.4",
+  "description": "A cli for init nuxt project",
   "bin": {
     "chaoge": "bin/chaoge"
   },

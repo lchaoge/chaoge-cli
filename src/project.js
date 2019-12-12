@@ -176,6 +176,8 @@ Project.prototype.generate = function () {
 
             console.log();
             console.log(chalk.green('Project created successfully!'));
+            console.log(chalk.green(`cd ${projectName}`));
+            console.log(chalk.green('yarn dev'));
             console.log(chalk.green('Let\'s Coding吧！嘿嘿😝'));
           }
         })
