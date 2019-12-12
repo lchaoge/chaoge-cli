@@ -7,5 +7,5 @@ logPackageVersion();
 
 program
   .usage('<command> [options]')
-  .command('init [name]', 'init a project')
+  .command('init [options] <app-name>', 'create a new project powered by nuxt-ts-service')
   .parse(process.argv);
